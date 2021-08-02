@@ -1,0 +1,26 @@
+Date: 31/7/2021
+
+what do i know so far:
+->C,C++ language and basic competitive programming in both of them
+->Python and file related things and object oriented programming in python
+->flask basics
+->html,css,js basics 
+
+what do i wanna know in august 2021:
+->git (first thing mastery in git)
+->DSA+graph fast(for third sem starting and overall for me)
+->kotlin,swift and nodejs 
+->android and ios mainly for summerUP
+->web app and API using nodejs(if u know it quite finely)
+->Django for chrome extension
+->telegram bots and discord bots
+->topcoder and it's things ( I saw that thing about UI/UX development )
+->GSOC know more about it 
+->github campus expert and know the community
+->Try out for open source
+->VScode hacks and github+vsc and specific extensions 
+->Youtube shorts and video editing 
+->Earn as many certificates u can from udemy , coursera and make a grt cv and resume and highlight ur profile in linkdin.
+
+what i did till now(5 days entry):
+5 august:
